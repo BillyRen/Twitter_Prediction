@@ -1,0 +1,7 @@
+install.packages("twitteR")
+install.packages("tm")
+install.packages("tseries") 
+install.packages("zoo")
+install.packages("xts") 
+install.packages("forecast")
+install.packages("wordcloud")
